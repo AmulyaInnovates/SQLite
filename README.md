@@ -36,7 +36,8 @@ Welcome to my SQLite repository — a focused space dedicated to lightweight yet
 
 ---
 
-🤝 Let’s Connect
+##🤝 Let’s Connect
+
 I'm always open to database collaborations, creative experiments, and knowledge-sharing. Whether you’re curious about query logic, need help optimizing a local DB, or want to co-build something cool — reach out!
 
 💬 Open to discussions, DMs, and database debates
@@ -45,8 +46,10 @@ I'm always open to database collaborations, creative experiments, and knowledge-
 
 ---
 
-📬 Contact
+##📬 Contact
+
 📧 Email: amulya.gupta.2556@gdgoenkarohini.edu.in
+
 🐙 GitHub: AmulyaInnovates
 
 ---
