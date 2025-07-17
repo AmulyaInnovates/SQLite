@@ -53,4 +53,5 @@ I'm always open to database collaborations, creative experiments, and knowledge-
 🐙 GitHub: AmulyaInnovates
 
 ---
-Thanks for visiting! Dive into the code, learn from the logic, and build with precision.
+
+> *Thanks for stopping by — Let’s turn ideas into programs!*
